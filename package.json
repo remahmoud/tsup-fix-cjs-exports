@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "tsup plugin to fix cjs exports",
     "main": "index.js",
+    "types": "index.d.ts",
     "scripts": {},
     "keywords": [
         "tsup",
@@ -22,5 +23,8 @@
     "homepage": "https://www.github.com/remahmoud/tsup-fix-cjs-exports#readme",
     "files": [
         "index.js"
-    ]
+    ],
+    "devDependencies": {
+        "tsup": "^6.7.0"
+    }
 }

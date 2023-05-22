@@ -3,6 +3,7 @@
     "version": "1.0.1",
     "description": "tsup plugin to fix cjs exports",
     "main": "index.js",
+    "module": "index.mjs",
     "types": "index.d.ts",
     "scripts": {},
     "keywords": [

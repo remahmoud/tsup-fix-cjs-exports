@@ -1,0 +1,26 @@
+{
+    "name": "tsup-fix-cjs-exports",
+    "version": "1.0.0",
+    "description": "tsup plugin to fix cjs exports",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [
+        "tsup",
+        "plugin",
+        "cjs",
+        "exports",
+        "fix",
+        "fix-cjs-exports",
+        "tsup-plugin"
+    ],
+    "author": "Mahmoud Ibrahiam",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/remahmoud/tsup-fix-cjs-exports"
+    },
+    "homepage": "https://www.github.com/remahmoud/tsup-fix-cjs-exports#readme",
+    "files": [
+        "index.js"
+    ]
+}

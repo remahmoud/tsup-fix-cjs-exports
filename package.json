@@ -24,6 +24,8 @@
     "homepage": "https://www.github.com/remahmoud/tsup-fix-cjs-exports#readme",
     "files": [
         "index.js"
+        "index.mjs"
+        "index.d.ts"
     ],
     "devDependencies": {
         "tsup": "^6.7.0"

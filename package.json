@@ -1,6 +1,6 @@
 {
     "name": "tsup-fix-cjs-exports",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "tsup plugin to fix cjs exports",
     "main": "index.js",
     "types": "index.d.ts",

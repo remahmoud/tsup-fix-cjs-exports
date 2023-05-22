@@ -23,8 +23,8 @@
     },
     "homepage": "https://www.github.com/remahmoud/tsup-fix-cjs-exports#readme",
     "files": [
-        "index.js"
-        "index.mjs"
+        "index.js",
+        "index.mjs",
         "index.d.ts"
     ],
     "devDependencies": {
